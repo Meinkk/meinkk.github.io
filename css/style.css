@@ -20,9 +20,18 @@ src: url(fonts/RibbonHeart.ttf);
 	background-attachment:fixed;
 	background-size: cover;
 }
+
+#zagz{
+	text-align: center;
+	font-family: Ribbon Heart;
+	color: #ffd452;
+	font-size: 70px;
+	text-shadow: 2px 2px 5px red;
+	font-weight: 200;
+	}
 #zag{
 	text-align: center;
-	font-family: Comic Sans MS, Ribbon Heart;
+	font-family: Comic Sans MS;
 	color: #ffd452;
 	font-size: 70px;
 	text-shadow: 2px 2px 5px red;
