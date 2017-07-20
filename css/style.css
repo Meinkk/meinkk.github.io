@@ -5,8 +5,8 @@ font-family:  velvet;
 src: url(fonts/velvet_regular.ttf);
 font-family:  Boring Lesson;
 src: url(fonts/BoringLesson.ttf);
-font-family:  RibbonHeart;
-src: url(fonts/10329.ttf);
+font-family:  Ribbon Heart;
+src: url(fonts/RibbonHeart.ttf);
 }
 	p{
 		text-indent: 5%; /*Отступ первой строки.*/
@@ -22,7 +22,7 @@ src: url(fonts/10329.ttf);
 }
 #zag{
 	text-align: center;
-	font-family: Comic Sans MS;
+	font-family: Comic Sans MS, Ribbon Heart;
 	color: #ffd452;
 	font-size: 70px;
 	text-shadow: 2px 2px 5px red;
